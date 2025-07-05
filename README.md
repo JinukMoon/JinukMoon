@@ -12,16 +12,10 @@
 - 📊 **High-throughput screening** and catalyst optimization
 
 ## 💻 Current Projects
-- **CatBench**: ML interatomic potentials benchmark framework for **adsorption energy prediction** in catalysis
+- **[CatBench](https://github.com/JinukMoon/CatBench)**: ML interatomic potentials benchmark framework for **adsorption energy prediction** in catalysis
 
 ## 📬 Let's Connect!
 - ✉️ Email: [jumoon@snu.ac.kr](mailto:jumoon@snu.ac.kr)
 - 🌐 Website: [jinukmoon.github.io](https://jinukmoon.github.io)
 - 💼 LinkedIn: [linkedin.com/in/jinukmoon](https://linkedin.com/in/jinukmoon)
 - 📚 Google Scholar: [scholar.google.co.kr/citations?user=9Ueds-EAAAAJ](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=ko&oi=ao)
-
-## ⭐ Featured Repository
-[![CatBench](https://github-readme-stats.vercel.app/api/pin/?username=JinukMoon&repo=CatBench&theme=vue-dark)](https://github.com/JinukMoon/CatBench)
-
----
-*"Advancing computational catalysis through innovative machine learning approaches."* 🧪🤖
