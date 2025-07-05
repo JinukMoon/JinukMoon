@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Jinuk Moon
 
 ## 👨‍🎓 About Me
-- 🏛️ PhD Student at **Seoul National University** (CCEL Lab)
+- 🏛️ PhD Student at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr))
 - 🎯 Background in **Materials Science & Chemical Engineering**
 - ⚗️ Passionate researcher in **computational catalysis** and **machine learning**
 
