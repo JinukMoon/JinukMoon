@@ -20,9 +20,6 @@
 - 💼 LinkedIn: [linkedin.com/in/jinukmoon](https://linkedin.com/in/jinukmoon)
 - 📚 Google Scholar: [scholar.google.co.kr/citations?user=9Ueds-EAAAAJ](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=ko&oi=ao)
 
-## 📈 GitHub Stats
-![Jinuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinukMoon&show_icons=true&theme=vue-dark)
-
 ## ⭐ Featured Repository
 [![CatBench](https://github-readme-stats.vercel.app/api/pin/?username=JinukMoon&repo=CatBench&theme=vue-dark)](https://github.com/JinukMoon/CatBench)
 
