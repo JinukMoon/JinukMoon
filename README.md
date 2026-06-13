@@ -3,29 +3,27 @@
 # Jinuk Moon
 
 <a href="https://jinukmoon.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&center=true&vCenter=true&width=560&height=45&lines=Catalysis+%26+Energy+Researcher;Bridging+simulation+and+experiment+with+AI;MLIP+development%2C+distillation%2C+generative+models;Building+CatBench" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&center=true&vCenter=true&width=720&height=45&lines=Catalysis+%26+Energy+Researcher;Bridging+simulation+and+experiment+with+AI;MLIP+development%2C+distillation%2C+generative+models;Building+CatBench" alt="Typing SVG" />
 </a>
 
 </div>
 
 PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), Prof. Jeong Woo Han) and Presidential Science Scholar. I study **catalysis and energy phenomena** and build **AI-driven simulation** — machine-learning interatomic potentials, knowledge distillation, and generative models — to bridge the long-standing gap between theory and experiment.
 
-### 🔬 Research
+### Research
 
 - **Why** — conventional simulation (DFT, MD) leaves a wide gap with experiment; AI can close it
 - **What** — electrocatalysis (OER · HER · CER), single-atom catalysis, energy-conversion materials
 - **How** — MLIP development & distillation, generative models, ML-accelerated DFT/MD, high-throughput screening
 
-### 🚀 Featured work
+### Featured work
 
-**[CatBench](https://github.com/JinukMoon/CatBench)** &nbsp;![★](https://img.shields.io/github/stars/JinukMoon/CatBench?style=flat&label=%E2%98%85&labelColor=30363d&color=0d9488)
-<br/>Benchmark framework evaluating **15+ MLIP architectures** on **47,000+ adsorption configurations**; pip-installable. Live leaderboard → **[catbench.org](https://catbench.org)**.
-<br/><sub>CatBench-guided MLIP selection has underpinned top-journal studies, including *Nature Energy* and *Energy & Environmental Science*.</sub>
+**[CatBench](https://github.com/JinukMoon/CatBench)** &nbsp;![★](https://img.shields.io/github/stars/JinukMoon/CatBench?style=flat&label=%E2%98%85&labelColor=30363d&color=0d9488) — MLIP benchmark for catalysis · [catbench.org](https://catbench.org)
+<br/><sub>Used to select MLIPs in *Nature Energy* and *Energy & Environmental Science* studies.</sub>
 
-**[agent-skills](https://github.com/JinukMoon/agent-skills)** &nbsp;![★](https://img.shields.io/github/stars/JinukMoon/agent-skills?style=flat&label=%E2%98%85&labelColor=30363d&color=0d9488)
-<br/>LLM-agnostic agent skills for research and everyday workflows.
+**[agent-skills](https://github.com/JinukMoon/agent-skills)** &nbsp;![★](https://img.shields.io/github/stars/JinukMoon/agent-skills?style=flat&label=%E2%98%85&labelColor=30363d&color=0d9488) — LLM-agnostic agent skills for research
 
-### 🧰 Toolkit
+### Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -35,7 +33,7 @@ PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), P
 ![MLIPs](https://img.shields.io/badge/MLIPs-UMA%20%C2%B7%20MACE%20%C2%B7%20SevenNet-0d9488?style=flat)
 ![SLURM](https://img.shields.io/badge/SLURM-0d9488?style=flat)
 
-### 📫 Connect
+### Connect
 
 [Website](https://jinukmoon.github.io) · [Google Scholar](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=en) · [LinkedIn](https://linkedin.com/in/jinukmoon) · [jumoon@snu.ac.kr](mailto:jumoon@snu.ac.kr)
 
