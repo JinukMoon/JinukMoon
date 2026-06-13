@@ -18,8 +18,10 @@ PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), P
 
 ### Publications
 
-6 first-author papers — in *Cell Reports Physical Science*, *Energy & Environmental Science*, *ACS Energy Letters*, and *Chem*; co-author in *Nature Energy*.
+- **[CatBench](https://github.com/JinukMoon/CatBench)** — MLIP benchmarking framework · *Cell Reports Physical Science*
+- **MLIP-driven interpretation of experiments** — Ru-cluster HER (*Energy & Environmental Science*), reversible solid-oxide cells (*Nature Energy*)
 
+Including these, **6 first-author** and **5 co-author** papers.
 Full list → [Google Scholar](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=en) · [jinukmoon.github.io/publications](https://jinukmoon.github.io/publications/)
 
 ### Toolkit
