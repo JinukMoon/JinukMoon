@@ -8,17 +8,15 @@
 
 </div>
 
-PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), Prof. Jeong Woo Han), studying **catalysis and energy phenomena**. Conventional computational methods (DFT, MD) leave a wide gap with experiment — I use **AI-based simulation** to close it, through **MLIP development, distillation, and generative models**. Presidential Science Scholar.
+PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), Prof. Jeong Woo Han) studying **catalysis and energy phenomena**. Conventional simulation (DFT, MD) leaves a wide gap with experiment — I build **AI-based simulation** to close it: MLIP development, distillation, and generative models. Presidential Science Scholar.
 
-### Research
+### Focus
 
-- **Why** — bridging the long-standing gap between computational catalysis and experiment
-- **How** — MLIP development & distillation, generative models, ML-accelerated DFT/MD, high-throughput screening
-- **What** — electrocatalysis (OER / HER / CER), single-atom catalysts, energy-conversion materials
+electrocatalysis (OER · HER · CER) · single-atom catalysis · energy-conversion materials · MLIP benchmarking & acceleration
 
 ### Featured work
 
-- **[CatBench](https://github.com/JinukMoon/CatBench)** ([catbench.org](https://catbench.org)) — benchmark framework evaluating **15+ MLIP architectures** on **47,000+ adsorption configurations**. pip-installable. [Leaderboard →](https://github.com/JinukMoon/catbench-leaderboard)
+- **[CatBench](https://github.com/JinukMoon/CatBench)** — benchmark framework evaluating **15+ MLIP architectures** on **47,000+ adsorption configurations**; pip-installable. Live leaderboard → **[catbench.org](https://catbench.org)**.
   <br/><sub>CatBench-guided MLIP selection has underpinned top-journal studies, including *Nature Energy* and *Energy & Environmental Science*.</sub>
 - **[agent-skills](https://github.com/JinukMoon/agent-skills)** — LLM-agnostic agent skills for research and everyday workflows
 
@@ -30,7 +28,7 @@ PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), P
 - From Atomic Motif to Realistic Single-Atom Catalysts via MLIPs — *ACS Energy Letters* (2025) · *co-first*
 - Heteroatom incorporation effects on OER in ruthenium oxide — *Chem* (2025) · *co-first*
 
-<sub>Full list → [blog](https://jinukmoon.github.io/publications/) · [Google Scholar](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=en)</sub>
+<sub>Full list → [jinukmoon.github.io/publications](https://jinukmoon.github.io/publications/)</sub>
 
 ### Toolkit
 
@@ -38,10 +36,7 @@ PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), P
 
 ### Connect
 
-- Website — [jinukmoon.github.io](https://jinukmoon.github.io)
-- Google Scholar — [profile](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=en)
-- LinkedIn — [in/jinukmoon](https://linkedin.com/in/jinukmoon)
-- Email — [jumoon@snu.ac.kr](mailto:jumoon@snu.ac.kr)
+[Website](https://jinukmoon.github.io) · [Google Scholar](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=en) · [LinkedIn](https://linkedin.com/in/jinukmoon) · [jumoon@snu.ac.kr](mailto:jumoon@snu.ac.kr)
 
 <sub>Off-screen: tennis, squash, and coffee chats — always open to research collaborations.</sub>
 
