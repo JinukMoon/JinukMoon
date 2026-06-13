@@ -10,23 +10,35 @@
 
 PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), Prof. Jeong Woo Han) and Presidential Science Scholar. I study **catalysis and energy phenomena**, using AI to bridge the long-standing gap between simulation and experiment.
 
-### Research
+### 🔬 Research
 
 - **Why** — conventional simulation (DFT, MD) leaves a wide gap with experiment; AI can close it
 - **How** — MLIP development & distillation, generative models, ML-accelerated DFT/MD, high-throughput screening
 - **What** — electrocatalysis (OER · HER · CER), single-atom catalysis, energy-conversion materials
 
-### Featured work
+### 🚀 Featured work
 
-- **[CatBench](https://github.com/JinukMoon/CatBench)** — benchmark framework evaluating **15+ MLIP architectures** on **47,000+ adsorption configurations**; pip-installable. Live leaderboard → **[catbench.org](https://catbench.org)**.
-  <br/><sub>CatBench-guided MLIP selection has underpinned top-journal studies, including *Nature Energy* and *Energy & Environmental Science*.</sub>
-- **[agent-skills](https://github.com/JinukMoon/agent-skills)** — LLM-agnostic agent skills for research and everyday workflows
+#### [CatBench](https://github.com/JinukMoon/CatBench) &nbsp; ![stars](https://img.shields.io/github/stars/JinukMoon/CatBench?style=flat&color=0d9488&labelColor=30363d)
 
-### Toolkit
+Benchmark framework evaluating **15+ MLIP architectures** on **47,000+ adsorption configurations**; pip-installable. Live leaderboard → **[catbench.org](https://catbench.org)**.
 
-`Python` · `PyTorch` · `VASP` · `ASE` · `LAMMPS` · MLIPs (UMA, GemNet-OC, MACE, SevenNet) · SLURM/HPC
+<sub>CatBench-guided MLIP selection has underpinned top-journal studies, including *Nature Energy* and *Energy & Environmental Science*.</sub>
 
-### Connect
+#### [agent-skills](https://github.com/JinukMoon/agent-skills) &nbsp; ![stars](https://img.shields.io/github/stars/JinukMoon/agent-skills?style=flat&color=0d9488&labelColor=30363d)
+
+LLM-agnostic agent skills for research and everyday workflows.
+
+### 🧰 Toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![VASP](https://img.shields.io/badge/VASP-0d9488?style=flat)
+![ASE](https://img.shields.io/badge/ASE-0d9488?style=flat)
+![LAMMPS](https://img.shields.io/badge/LAMMPS-0d9488?style=flat)
+![MLIPs](https://img.shields.io/badge/MLIPs-UMA%20%C2%B7%20MACE%20%C2%B7%20SevenNet-0d9488?style=flat)
+![SLURM](https://img.shields.io/badge/SLURM-0d9488?style=flat)
+
+### 📫 Connect
 
 [Website](https://jinukmoon.github.io) · [Google Scholar](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=en) · [LinkedIn](https://linkedin.com/in/jinukmoon) · [jumoon@snu.ac.kr](mailto:jumoon@snu.ac.kr)
 
@@ -36,7 +48,7 @@ PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), P
 
 <div align="center">
 
-<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=JinukMoon&theme=tokyo-night&hide_border=true&area=true&radius=8" />
+<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=JinukMoon&bg_color=0d1117&color=5eead4&line=2dd4bf&point=5eead4&area_color=0f766e&title_color=5eead4&area=true&hide_border=true" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JinukMoon/JinukMoon/output/github-snake-dark.svg" />
