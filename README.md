@@ -51,4 +51,9 @@ PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), P
 
 <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=JinukMoon&theme=tokyo-night&hide_border=true&area=true&radius=8" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JinukMoon/JinukMoon/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/JinukMoon/JinukMoon/output/github-snake.svg" />
+</picture>
+
 </div>
