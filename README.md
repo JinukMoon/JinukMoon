@@ -8,11 +8,13 @@
 
 </div>
 
-PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), Prof. Jeong Woo Han) studying **catalysis and energy phenomena**. Conventional simulation (DFT, MD) leaves a wide gap with experiment — I build **AI-based simulation** to close it: MLIP development, distillation, and generative models. Presidential Science Scholar.
+PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), Prof. Jeong Woo Han) and Presidential Science Scholar. I study **catalysis and energy phenomena**, using AI to bridge the long-standing gap between simulation and experiment.
 
-### Focus
+### Research
 
-electrocatalysis (OER · HER · CER) · single-atom catalysis · energy-conversion materials · MLIP benchmarking & acceleration
+- **Why** — conventional simulation (DFT, MD) leaves a wide gap with experiment; AI can close it
+- **How** — MLIP development & distillation, generative models, ML-accelerated DFT/MD, high-throughput screening
+- **What** — electrocatalysis (OER · HER · CER), single-atom catalysis, energy-conversion materials
 
 ### Featured work
 
