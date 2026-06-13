@@ -36,7 +36,7 @@ Full list → [Google Scholar](https://scholar.google.co.kr/citations?user=9Ueds
 
 ### Connect
 
-[Website](https://jinukmoon.github.io) · [Google Scholar](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=en) · [LinkedIn](https://linkedin.com/in/jinukmoon) · [jumoon@snu.ac.kr](mailto:jumoon@snu.ac.kr)
+[Website](https://jinukmoon.github.io) · [CV](https://jinukmoon.github.io/cv/) · [Google Scholar](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=en) · [LinkedIn](https://linkedin.com/in/jinukmoon) · [jumoon@snu.ac.kr](mailto:jumoon@snu.ac.kr)
 
 <sub>Off-screen: tennis, squash, and coffee chats — always open to research collaborations.</sub>
 
