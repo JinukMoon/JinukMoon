@@ -24,7 +24,7 @@ PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), P
 
 ### Selected publications
 
-- **CatBench** framework for benchmarking MLIPs — *Cell Reports Physical Science* (2025) · *corresponding*
+- **CatBench** framework for benchmarking MLIPs — *Cell Reports Physical Science* (2025) · *first-author*
 - Size-dependent dynamic surface states of Ru clusters — *Energy & Environmental Science* (2026) · *co-first*
 - Angular relational knowledge distillation of MLIPs — *npj Computational Materials* (2026)
 - From Atomic Motif to Realistic Single-Atom Catalysts via MLIPs — *ACS Energy Letters* (2025) · *co-first*
