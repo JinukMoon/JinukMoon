@@ -45,8 +45,6 @@ PhD candidate in **Materials Science & Engineering** at **Seoul National Univers
 
 <div align="center">
 
-<img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JinukMoon&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-
 <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=JinukMoon&theme=tokyo-night&hide_border=true&area=true&radius=8" />
 
 </div>
