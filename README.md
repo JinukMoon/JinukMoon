@@ -16,6 +16,12 @@ PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), P
 - **What** — electrocatalysis (OER · HER · CER), single-atom catalysis, energy-conversion materials
 - **How** — MLIP development & distillation, generative models, ML-accelerated DFT/MD, high-throughput screening
 
+### Publications
+
+6 first-author papers — in *Cell Reports Physical Science*, *Energy & Environmental Science*, *ACS Energy Letters*, and *Chem*; co-author in *Nature Energy*.
+
+Full list → [Google Scholar](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=en) · [jinukmoon.github.io/publications](https://jinukmoon.github.io/publications/)
+
 ### Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
