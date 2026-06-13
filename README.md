@@ -1,17 +1,30 @@
 ## Jinuk Moon
 
-PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr)), working at the intersection of **computational catalysis** and **machine learning**. Background in Materials Science & Chemical Engineering.
+PhD candidate in **Materials Science & Engineering** at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), Prof. Jeong Woo Han), developing **machine-learning interatomic potentials (MLIPs)** to accelerate the discovery of clean-energy electrocatalysts. Presidential Science Scholar.
 
 ### Research
 
-- **Machine-learning interatomic potentials (MLIPs)** for realistic catalyst modeling — bridging DFT-level accuracy with experimental-scale systems
-- **ML-accelerated computational catalysis**: high-throughput screening, adsorption-energy prediction, reaction-path analysis (DFT, MD)
-- Connecting first-principles methods with modern ML for catalyst discovery and optimization
+- **MLIP development & distillation** — building, compressing, and validating MLIPs that keep DFT-level accuracy at experimental scale
+- **ML-accelerated computational catalysis** — high-throughput screening, adsorption-energy & reaction-path prediction (DFT, MD), single-atom and electrocatalysis (OER / HER / CER)
+- **Bridging theory and experiment** — multiscale modeling connected to spectroscopy/microscopy from experimental collaborators
 
 ### Featured work
 
-- **[CatBench](https://github.com/JinukMoon/CatBench)** — benchmark framework for evaluating MLIPs on heterogeneous-catalysis tasks (adsorption energies, forces). [Leaderboard →](https://github.com/JinukMoon/catbench-leaderboard)
+- **[CatBench](https://github.com/JinukMoon/CatBench)** ([catbench.org](https://catbench.org)) — benchmark framework evaluating **15+ MLIP architectures** on **47,000+ adsorption configurations**. pip-installable. [Leaderboard →](https://github.com/JinukMoon/catbench-leaderboard)
 - **[agent-skills](https://github.com/JinukMoon/agent-skills)** — LLM-agnostic agent skills for research and everyday workflows
+
+### Selected first-author publications
+
+- **CatBench** — *Cell Reports Physical Science* (2025)
+- Angular relational knowledge distillation of MLIPs — *npj Computational Materials* (in press)
+- From Atomic Motif to Realistic Single-Atom Catalysts via MLIPs — *ACS Energy Letters* (2025)
+- Heteroatom incorporation effects on OER in ruthenium oxide — *Chem* (2025)
+
+<sub>9 published · 2 under review · 6 first-authored — full list on [Google Scholar](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=en)</sub>
+
+### Toolkit
+
+`Python` · `PyTorch` · `VASP` · `ASE` · `LAMMPS` · MLIPs (UMA, GemNet-OC, MACE, SevenNet) · SLURM/HPC
 
 ### Connect
 
