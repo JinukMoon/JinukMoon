@@ -8,25 +8,22 @@
 
 </div>
 
-PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), Prof. Jeong Woo Han) and Presidential Science Scholar. I study **catalysis and energy phenomena**, using AI to bridge the long-standing gap between simulation and experiment.
+PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), Prof. Jeong Woo Han) and Presidential Science Scholar. I study **catalysis and energy phenomena** and build **AI-driven simulation** — machine-learning interatomic potentials, knowledge distillation, and generative models — to bridge the long-standing gap between theory and experiment.
 
 ### 🔬 Research
 
 - **Why** — conventional simulation (DFT, MD) leaves a wide gap with experiment; AI can close it
-- **How** — MLIP development & distillation, generative models, ML-accelerated DFT/MD, high-throughput screening
 - **What** — electrocatalysis (OER · HER · CER), single-atom catalysis, energy-conversion materials
+- **How** — MLIP development & distillation, generative models, ML-accelerated DFT/MD, high-throughput screening
 
 ### 🚀 Featured work
 
-#### [CatBench](https://github.com/JinukMoon/CatBench) &nbsp; ![stars](https://img.shields.io/github/stars/JinukMoon/CatBench?style=flat&color=0d9488&labelColor=30363d)
+**[CatBench](https://github.com/JinukMoon/CatBench)** &nbsp;![★](https://img.shields.io/github/stars/JinukMoon/CatBench?style=flat&label=%E2%98%85&labelColor=30363d&color=0d9488)
+<br/>Benchmark framework evaluating **15+ MLIP architectures** on **47,000+ adsorption configurations**; pip-installable. Live leaderboard → **[catbench.org](https://catbench.org)**.
+<br/><sub>CatBench-guided MLIP selection has underpinned top-journal studies, including *Nature Energy* and *Energy & Environmental Science*.</sub>
 
-Benchmark framework evaluating **15+ MLIP architectures** on **47,000+ adsorption configurations**; pip-installable. Live leaderboard → **[catbench.org](https://catbench.org)**.
-
-<sub>CatBench-guided MLIP selection has underpinned top-journal studies, including *Nature Energy* and *Energy & Environmental Science*.</sub>
-
-#### [agent-skills](https://github.com/JinukMoon/agent-skills) &nbsp; ![stars](https://img.shields.io/github/stars/JinukMoon/agent-skills?style=flat&color=0d9488&labelColor=30363d)
-
-LLM-agnostic agent skills for research and everyday workflows.
+**[agent-skills](https://github.com/JinukMoon/agent-skills)** &nbsp;![★](https://img.shields.io/github/stars/JinukMoon/agent-skills?style=flat&label=%E2%98%85&labelColor=30363d&color=0d9488)
+<br/>LLM-agnostic agent skills for research and everyday workflows.
 
 ### 🧰 Toolkit
 
