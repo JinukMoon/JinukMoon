@@ -16,13 +16,6 @@ PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), P
 - **What** — electrocatalysis (OER · HER · CER), single-atom catalysis, energy-conversion materials
 - **How** — MLIP development & distillation, generative models, ML-accelerated DFT/MD, high-throughput screening
 
-### Featured work
-
-**[CatBench](https://github.com/JinukMoon/CatBench)** &nbsp;![★](https://img.shields.io/github/stars/JinukMoon/CatBench?style=flat&label=%E2%98%85&labelColor=30363d&color=0d9488) — MLIP benchmark for catalysis · [catbench.org](https://catbench.org)
-<br/><sub>Used to select MLIPs in *Nature Energy* and *Energy & Environmental Science* studies.</sub>
-
-**[agent-skills](https://github.com/JinukMoon/agent-skills)** &nbsp;![★](https://img.shields.io/github/stars/JinukMoon/agent-skills?style=flat&label=%E2%98%85&labelColor=30363d&color=0d9488) — LLM-agnostic agent skills for research
-
 ### Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
