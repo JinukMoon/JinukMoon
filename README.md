@@ -20,16 +20,6 @@ electrocatalysis (OER · HER · CER) · single-atom catalysis · energy-conversi
   <br/><sub>CatBench-guided MLIP selection has underpinned top-journal studies, including *Nature Energy* and *Energy & Environmental Science*.</sub>
 - **[agent-skills](https://github.com/JinukMoon/agent-skills)** — LLM-agnostic agent skills for research and everyday workflows
 
-### Selected publications
-
-- **CatBench** framework for benchmarking MLIPs — *Cell Reports Physical Science* (2025) · *first-author*
-- Size-dependent dynamic surface states of Ru clusters — *Energy & Environmental Science* (2026) · *co-first*
-- Angular relational knowledge distillation of MLIPs — *npj Computational Materials* (2026)
-- From Atomic Motif to Realistic Single-Atom Catalysts via MLIPs — *ACS Energy Letters* (2025) · *co-first*
-- Heteroatom incorporation effects on OER in ruthenium oxide — *Chem* (2025) · *co-first*
-
-<sub>Full list → [jinukmoon.github.io/publications](https://jinukmoon.github.io/publications/)</sub>
-
 ### Toolkit
 
 `Python` · `PyTorch` · `VASP` · `ASE` · `LAMMPS` · MLIPs (UMA, GemNet-OC, MACE, SevenNet) · SLURM/HPC
