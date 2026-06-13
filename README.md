@@ -1,4 +1,12 @@
-## Jinuk Moon
+<div align="center">
+
+# Jinuk Moon
+
+<a href="https://github.com/JinukMoon">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&center=true&vCenter=true&width=540&height=45&lines=MLIP+Developer+%40+SNU+CCEL;Computational+Catalysis+Researcher;Building+CatBench;Bridging+ML%2C+DFT%2C+and+Experiment" alt="Typing SVG" />
+</a>
+
+</div>
 
 PhD candidate in **Materials Science & Engineering** at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), Prof. Jeong Woo Han), developing **machine-learning interatomic potentials (MLIPs)** to accelerate the discovery of clean-energy electrocatalysts. Presidential Science Scholar.
 
@@ -38,6 +46,12 @@ PhD candidate in **Materials Science & Engineering** at **Seoul National Univers
 <div align="center">
 
 <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JinukMoon&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinukMoon&layout=compact&hide_border=true&langs_count=6" />
+
+<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=JinukMoon&theme=tokyo-night&hide_border=true&area=true&radius=8" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JinukMoon/JinukMoon/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/JinukMoon/JinukMoon/output/github-snake.svg" />
+</picture>
 
 </div>
