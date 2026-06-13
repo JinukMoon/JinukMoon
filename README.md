@@ -18,8 +18,8 @@ PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), P
 
 ### Publications
 
-- **[CatBench](https://github.com/JinukMoon/CatBench)** — MLIP benchmarking framework · *Cell Reports Physical Science*
-- **MLIP-driven interpretation of experiments** — Ru-cluster HER (*Energy & Environmental Science*), reversible solid-oxide cells (*Nature Energy*)
+- **[CatBench](https://github.com/JinukMoon/CatBench)** — MLIP benchmarking framework · [*Cell Reports Physical Science*](https://doi.org/10.1016/j.xcrp.2025.102968) · [live leaderboard](https://catbench.org)
+- **MLIP-driven interpretation of experiments** — Ru-cluster HER ([*Energy & Environmental Science*](https://doi.org/10.1039/d6ee01604a)), reversible solid-oxide cells ([*Nature Energy*](https://doi.org/10.1038/s41560-026-02042-5))
 
 Including these, **6 first-author** and **5 co-author** papers.
 Full list → [Google Scholar](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=en) · [jinukmoon.github.io/publications](https://jinukmoon.github.io/publications/)
