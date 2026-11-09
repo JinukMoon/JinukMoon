@@ -16,12 +16,16 @@ PhD candidate at **Seoul National University** ([CCEL](http://ccel.snu.ac.kr), P
 - **What** — electrocatalysis (OER · HER · CER), single-atom catalysis, energy-conversion materials
 - **How** — MLIP development & distillation, generative models, ML-accelerated DFT/MD, high-throughput screening
 
+### Tools
+
+- **[oh-my-mlip](https://github.com/JinukMoon/oh-my-mlip)** — every major MLIP in one registry, installed, verified, and run by your LLM agent · [oh-my-mlip.org](https://oh-my-mlip.org/)
+
 ### Publications
 
 - **[CatBench](https://github.com/JinukMoon/CatBench)** — MLIP benchmarking framework · [*Cell Reports Physical Science*](https://doi.org/10.1016/j.xcrp.2025.102968) · [live leaderboard](https://catbench.org)
 - **MLIP-driven interpretation of experiments** — Ru-cluster HER ([*Energy & Environmental Science*](https://doi.org/10.1039/d6ee01604a)), reversible solid-oxide cells ([*Nature Energy*](https://doi.org/10.1038/s41560-026-02042-5))
 
-Including these, **6 first-author** and **5 co-author** papers.
+Including these, **13 papers**: **7 first-author** (incl. co-first) and **6 co-author**.
 Full list → [Google Scholar](https://scholar.google.co.kr/citations?user=9Ueds-EAAAAJ&hl=en) · [jinukmoon.github.io/publications](https://jinukmoon.github.io/publications/)
 
 ### Toolkit
@@ -43,8 +47,6 @@ Full list → [Google Scholar](https://scholar.google.co.kr/citations?user=9Ueds
 ---
 
 <div align="center">
-
-<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=JinukMoon&bg_color=0d1117&color=5eead4&line=2dd4bf&point=5eead4&area_color=0f766e&title_color=5eead4&area=true&hide_border=true" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JinukMoon/JinukMoon/output/github-snake-dark.svg" />
